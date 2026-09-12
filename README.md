@@ -2,18 +2,18 @@
 
 ### 👨‍💻 About Me
 
-- ⁠🎓 **B.Tech CSE (AI & ML)** student at IILM University
-- 🚀Passionate about **Software Development**, **Artificial Intelligence**, and **Machine Learning**
-- ⁠🛠️ Currently learning **C**, **C++**, **Python**, **Data Structures & Algorithms (DSA)**, and **AI/ML concepts**
-- ⁠🎯 Goal: Building real-world impactful software applications
--📍 Greater Noida, Uttar Pradesh, India
+- ⁠🎓 **B.Tech CSE (AI & ML)** **student at IILM University**
+- **🚀Passionate about** **Software Development**, **Artificial Intelligence**, and **Machine Learning**
+- **⁠🛠️ Currently learning** **C**, **C++**, **Python**, **Data Structures & Algorithms (DSA)**, and **AI/ML concepts**
+- ⁠🎯 **Goal: Building real-world impactful software applications**
+-📍 **Greater Noida, Uttar Pradesh, India**
 
 ---
 
 ### 🛠️ Languages & Tools
 
-- ⁠**Languages:** C, C++, Python
-- **Developer Tools:** Git, GitHub, VS Code
+- ⁠**Languages: C, C++, Python**
+- **Developer Tools: Git, GitHub, VS Code**
 
 ---
 
